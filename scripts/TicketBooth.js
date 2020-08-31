@@ -1,10 +1,6 @@
 const contentTarget = document.querySelector(".entry")
 const eventHub = document.querySelector("#state-fair")
 
-
-
-
-
 export const TicketBooth = () => {
     contentTarget.innerHTML = `
         <div class="ticketBooth">
